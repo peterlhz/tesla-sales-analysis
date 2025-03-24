@@ -19,6 +19,9 @@ Tags: Group FinBlazers
 - **Hui Jing Tung (Bernice)**  
   Majoring in Financial Technology. Interested in leveraging technology in the financial world, particularly in streamlining processes and driving product insights in the banking field.
 
+- **Qian Yongkun Jonathan**
+  Majoring in Financial Technology with minors in Finance and Computer Science. Passionate about the integration of cutting-edge technology in the finance industry.  Loves playing football and music.
+
 
 ## The Spark: Igniting Our Journey to Decode Tesla's Sales Narrative
 
