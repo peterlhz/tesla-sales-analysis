@@ -83,10 +83,6 @@ So far, we have identified key datasets to support our analysis:
 - **Twitter Dataset:**  
   10,000 Twitter posts about Tesla, with detailed post dates up to Dec 7, 2022.  
   [hugginglearners/twitter-dataset-tesla on Hugging Face](https://huggingface.co/datasets/hugginglearners/twitter-dataset-tesla)  
-  The code we use is as follows:
-  ```bash   
-  curl -X GET "https://datasets-server.huggingface.co/rows?dataset=hugginglearners%2Ftwitter-dataset-tesla&config=default&split=train&offset=0&length=100"
-  ```
 
 - **Financial News Articles (2020-2024):**
   Financial news about Tesla, primarily without specific dates.
@@ -96,12 +92,6 @@ So far, we have identified key datasets to support our analysis:
   Articles focused on Tesla and Elon Musk in 2022. 
   [Newspapers Dataset on Kaggle](https://www.kaggle.com/datasets/saleepshrestha/newspapers)   
   The code we use is as follows:
-  ```python   
-  import kagglehub    
-  # Download latest version   
-  path = kagglehub.dataset_download("saleepshrestha/newspapers")   
-  print("Path to dataset files:", path)   
-  ```   
 
 ## Analysis Plan
 
