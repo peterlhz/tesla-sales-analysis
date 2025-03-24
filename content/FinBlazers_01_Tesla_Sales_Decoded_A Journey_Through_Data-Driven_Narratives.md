@@ -90,9 +90,8 @@ So far, we have identified key datasets to support our analysis:
 
 - **Financial News on Tesla and Elon Musk (2022):**
   Articles focused on Tesla and Elon Musk in 2022. 
-  [Newspapers Dataset on Kaggle](https://www.kaggle.com/datasets/saleepshrestha/newspapers)   
-  The code we use is as follows:
-
+  [Newspapers Dataset on Kaggle](https://www.kaggle.com/datasets/saleepshrestha/newspapers)
+  
 ## Analysis Plan
 
 Looking at all the datasets we have obtained at hand, our first step into the project may be making use of the temporal information in the Twitter posts, and picking that financial news with a clear date or is known to belong to 2022, to use Dec 2022 as a cutting point, and use the dataset 1-2 years before Dec 2022 to predict the sales of the following year (2023) and validate with the existing figures. Apart from that, we also have an accessible dataset about the sales of competitors of Tesla, the correlation of sales with competitors is an achievable next step. In the meantime, we will be continuing with collecting new datasets to have a better analysis in each Tier.
